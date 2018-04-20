@@ -3,3 +3,5 @@ library(tidyverse)
 mtcars %>%
   ggplot(aes(x=wt,y=mpg)) +
   geom_point()
+
+new_life <- "poo da"
