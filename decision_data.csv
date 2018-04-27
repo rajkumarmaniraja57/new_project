@@ -1,0 +1,10 @@
+,parameter,lower_band,upper_band
+player_1,cost(in thousands),50,100
+player_1,milk_per_day(in lits),5,30
+player_1,loan(in percent),20,80
+player_2,cost(in thousands),30,60
+player_2,milk_per_day(in lits),3,10
+player_2,loan(in percent),0,100
+player_3,cost(in thousands),40,80
+player_3,milk_per_day(in lits),5,10
+player_3,loan(in percent),70,100
