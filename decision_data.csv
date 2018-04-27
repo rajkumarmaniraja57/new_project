@@ -1,4 +1,4 @@
-,parameter,lower_band,upper_band
+player_name,parameter,lower_band,upper_band
 player_1,cost(in thousands),50,100
 player_1,milk_per_day(in lits),5,30
 player_1,loan(in percent),20,80
